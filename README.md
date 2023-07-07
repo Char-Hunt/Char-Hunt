@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō
 
 //TODO add more details 
 
