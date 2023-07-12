@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, programming, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: LinkedIn
-- 😄 Pronouns: What is what?
+- 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
 
