@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on machine learning and generative ai items.
-- 🌱 I’m currently learning python, linux, vae, gan systems and ml concepts.
+- 🌱 I’m currently exploring python, linux, vae, gan systems and ml concepts.
 - 👯 I’m looking to collaborate on progamming tools.
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
