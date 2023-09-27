@@ -1,5 +1,4 @@
 ### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō
-I am an IT security practitioner specializing in risk assessment/evaluation, , user engagement, education & awareness, security architecture, and security policy development.
 
 
 - 🔭 I’m currently working on machine learning and generative ai items.
@@ -10,4 +9,5 @@ I am an IT security practitioner specializing in risk assessment/evaluation, , u
 - 📫 How to reach me: Find me on LinkedIn <a href="https://www.linkedin.com/in/charhunte">to learn more.</a>
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
+- 👨‍💻 I'm an IT security practitioner specializing in risk assessment/evaluation, , user engagement, education & awareness, security architecture, and security policy development.
 
