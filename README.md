@@ -9,5 +9,5 @@
 - 📫 How to reach me: Find me on LinkedIn to [Learn More.](https://www.linkedin.com/in/charhunte)
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
-- 👨‍💻 I'm an IT security practitioner specializing in risk assessment/evaluation, user engagement, education & awareness, security architecture, and security policy development.
+- 👨‍💻 I'm an IT security practitioner specializing in risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 
