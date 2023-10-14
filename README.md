@@ -2,7 +2,7 @@
 
 My name is Char! I have over 10 years of experience in technology. My IT infrastructure analysis and ITSM background, and understanding of core business architecture gives a strong base to troubleshoot, and provide solutions in Enterprise environments. 
 
-During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. I bring a varied background with a career portfolio including Help Desk/Technical Support, Global IT Support center, IT Shared Services and production, Financial Systems Administration, Security Compliance and Risk Management, database administration, Customer Care and User Experience.
+During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. 
 
 I'm focused on helping organizations achieve cyber resilience through effective and efficient combinations of process, and empathy; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. I'm always open to partnerships or collaborations in pursuit of that important destination.
 #
