@@ -1,5 +1,4 @@
-### Hi there 👋 Hi | Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō
-
+### Hi there 👋 Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 My name is Char! I have over 10 years of experience in technology. My IT infrastructure analysis and ITSM background, and understanding of core business architecture gives a strong base to troubleshoot, and provide solutions in Enterprise environments. 
 
 During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. 
