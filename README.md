@@ -12,7 +12,7 @@ I'm focused on helping organizations achieve cyber resilience through effective 
 - 👯 I’m looking to collaborate on progamming tools.
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me on LinkedIn to [Learn More.](https://www.linkedin.com/in/charhunte)
+- 📫 How to reach me: Find me online and [Learn More.](https://solo.to/treadm1ll)
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
 
