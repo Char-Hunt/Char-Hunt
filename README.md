@@ -3,7 +3,7 @@ My name is Char! I have over 10 years of experience in technology. My IT infrast
 
 During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. 
 
-I'm focused on helping organizations achieve cyber resilience through effective and efficient combinations of process, and empathy; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. I'm always open to collaborations to accomplish movement toward that important destination.
+I'm focused on helping organizations achieve cyber resilience through effective and efficient combinations of process, and empathy; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. I'm always open to collaborations to accomplish progress towared that important destination.
 #
 
 - 🔭 I’m currently working on infosec, compliance and soc items.
