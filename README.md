@@ -1,7 +1,7 @@
 ### Hi there 👋 Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 My name is Char! I analyze and manage organizational systems and work to maintain core security principles including confidentiality, integrity and ethics.  My IT infrastructure analysis and ITSM background, and understanding of core business architecture gives a strong base to troubleshoot, and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. 
 
-I'm focused on helping organizations achieve cyber resilience through effective and efficient combinations of process, empathy, and resilience; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. I'm always open to collaborations to accomplish progress towared that important destination.
+I'm focused on helping organizations achieve cyber resilience through effective and efficient combinations of process, empathy, and technological enhancement; Someone who believes that raising every technology subject's level of awareness regarding cybersecurity and risk management is paramount to success. I'm always open to collaborations to accomplish progress towared that important destination.
 #
 
 - 🔭 I’m currently working on infosec, compliance and soc items.
