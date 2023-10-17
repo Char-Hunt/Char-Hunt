@@ -1,5 +1,5 @@
 ### Hi there 👋 Hello | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
-My name is Char! I analyze and manage organizational systems and work to maintain core security principles including confidentiality, integrity and ethics.  My IT infrastructure analysis and ITSM background, and understanding of core business architecture gives a strong base to troubleshoot, and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies.
+My name is Char! I analyze and manage organizational systems and work to maintain core security principles including confidentiality, integrity and ethics.  My IT infrastructure analysis and ITSM background, and understanding of core business architecture gives a strong base to troubleshoot, and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support; and project/operations roles; deploying new applications and technologies. 
 #
 
 - 🔭 I’m currently working on infosec, compliance and soc items.
