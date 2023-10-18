@@ -13,7 +13,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 - ⚡ Fun fact: I know Nashville Numbering.
 
 #
-Website | Blog | Portfolio | Shop | Get in touch with me | [Links](https://solo.to/treadm1ll) | Newsletter
+Website | Blog | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | Shop | Get in touch with me | [Links](https://solo.to/treadm1ll) | Newsletter
 #
 My Latest:
 
