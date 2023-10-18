@@ -21,4 +21,5 @@ My Latest:
     Embrace Sustainble Food Systems: How UPFs Promote Heart Disease
     Break Down Prompts Into Smaller Chunks
     New Business Imperatives and Why Circular Economy Is The Answer
+    Mapping Your Cybersecurity Journey
     
