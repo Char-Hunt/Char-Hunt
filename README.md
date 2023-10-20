@@ -22,4 +22,5 @@ My Latest:
     Break Down Prompts Into Smaller Chunks
     New Business Imperatives and Why Circular Economy Is The Answer
     Mapping Your Cybersecurity Journey
-    Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster-suspense 
+    Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster-suspense
+    Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing
