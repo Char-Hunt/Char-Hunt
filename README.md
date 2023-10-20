@@ -18,8 +18,8 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 My Latest:
 
     Why Does Recycling Seem So Difficult
-    Embrace Sustainble Food Systems: How UPFs Promote Heart Disease
+    Embrace Sustainable Food Systems: How UPFs Promote Heart Disease
     Break Down Prompts Into Smaller Chunks
     New Business Imperatives and Why Circular Economy Is The Answer
     Mapping Your Cybersecurity Journey
-    
+    Rollercoaster Film Review: How I Learned to Stop Worrying and Love Disaster-suspense 
