@@ -17,7 +17,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 #
 [Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [For Your Information](Contact) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums) | [The Stream: Talk Bits](https://techiechar.substack.com/podcast)
 #
-My Latest:
+My Latest:)
 
     Why Does Recycling Seem So Difficult
     Embrace Sustainable Food Systems: How UPFs Promote Heart Disease
@@ -26,3 +26,6 @@ My Latest:
     Mapping Your Cybersecurity Journey
     Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster-suspense
     Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing
+#
+#
+This is a home for us to connect. A place where I can advise you on a wide range of topics. [https://topmate.io/char_hunt/624916](Let's chat!
