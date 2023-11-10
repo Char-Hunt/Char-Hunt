@@ -28,4 +28,6 @@ My Latest:)
     Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing
 #
 #
-This is a home for us to connect. A place where I can advise you on a wide range of topics. [(Let's chat!](https://topmate.io/char_hunt/624916)
+FYI (For Your Information)
+
+This is a home for us to connect. A place where I can advise you on a wide range of topics. [Let's chat!](https://topmate.io/char_hunt/624916)
