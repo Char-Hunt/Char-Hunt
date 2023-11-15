@@ -15,7 +15,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 - ⚡ Fun fact: I know Nashville Numbering.
 
 #
-[Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums) | [The Stream: Talk Bits](https://techiechar.substack.com/podcast)
+[Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 #
 My Latest:)
 
