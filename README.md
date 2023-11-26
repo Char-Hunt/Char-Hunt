@@ -19,7 +19,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 #
 My Latest:)
 
-    Why Does Recycling Seem So Difficult
+ Why Does Recycling Seem So Difficult
     Embrace Sustainable Food Systems: How UPFs Promote Heart Disease
     Break Down Prompts Into Smaller Chunks
     New Business Imperatives and Why Circular Economy Is The Answer
