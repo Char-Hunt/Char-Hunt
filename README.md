@@ -19,15 +19,19 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 #
 My Latest:
  
-    Embrace Sustainable Food Systems: How UPFs Promote Heart Disease
+   [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://bit.ly/3Q4tlZf)
+    
    [Why Does Recycling Seem So Difficult](https://bit.ly/3Q4tlZf)
    
-    Break Down Prompts Into Smaller Chunks
+   [Break Down Prompts Into Smaller Chunks](https://bit.ly/3Q4tlZf)
     
-    New Business Imperatives and Why Circular Economy Is The Answer
-    Mapping Your Cybersecurity Journey
-    Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster-suspense
-    Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing
+   [New Business Imperatives and Why Circular Economy Is The Answer](https://bit.ly/3Q4tlZf)
+    
+   [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
+    
+   [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://bit.ly/3Q4tlZf)
+    
+   [Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing](https://bit.ly/3Q4tlZf)
 #
 #
 FYI (For Your Information)
