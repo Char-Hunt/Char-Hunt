@@ -17,11 +17,13 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 #
 [Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 #
-My Latest:)
-
- Why Does Recycling Seem So Difficult
+My Latest:
+ 
     Embrace Sustainable Food Systems: How UPFs Promote Heart Disease
+   [Why Does Recycling Seem So Difficult](https://bit.ly/3Q4tlZf)
+   
     Break Down Prompts Into Smaller Chunks
+    
     New Business Imperatives and Why Circular Economy Is The Answer
     Mapping Your Cybersecurity Journey
     Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster-suspense
