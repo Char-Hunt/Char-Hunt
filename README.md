@@ -21,17 +21,17 @@ My Latest:
  
    [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
     
-   [Why Does Recycling Seem So Difficult](https://bit.ly/3Q4tlZf)
+   [Why Does Recycling Seem So Difficult](https://open.substack.com/pub/techiechar/p/why-does-recycling-seem-so-difficult?r=2i0y4d&utm_campaign=post&utm_medium=web)
    
    [Break Down Prompts Into Smaller Chunks](https://bit.ly/3Q4tlZf)
     
-   [New Business Imperatives and Why Circular Economy Is The Answer](https://bit.ly/3Q4tlZf)
+   [New Business Imperatives and Why Circular Economy Is The Answer](https://open.substack.com/pub/techiechar/p/new-business-imperatives-and-why?r=2i0y4d&utm_campaign=post&utm_medium=web)
     
    [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
     
    [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://bit.ly/3Q4tlZf)
     
-   [Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing](https://bit.ly/3Q4tlZf)
+   [Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
 #
 #
 FYI (For Your Information)
