@@ -19,7 +19,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 #
 My Latest:
  
-   [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://bit.ly/3Q4tlZf)
+   [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
     
    [Why Does Recycling Seem So Difficult](https://bit.ly/3Q4tlZf)
    
