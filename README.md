@@ -39,6 +39,6 @@ My Latest:
 #
 FYI (For Your Information)
 
-This is a home for us to connect. A place where I can advise you on a wide range of topics. [Let's chat!](https://topmate.io/char_hunt/624916)
-#
-**Contact Me for a Live Conversation.**
+This is a home for us to connect. A place where I can advise you on a wide range of topics. 
+
+[Let's chat!](https://topmate.io/char_hunt/624916) **Contact Me for a Live Conversation.**
