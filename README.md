@@ -8,7 +8,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 #
 
 - 🔭 I’m currently working on infosec, compliance and soc1 / soc2 items.
-- 👨‍💻 I'm an IT security practitioner specializing in risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
+- 👨‍💻 I'm an IT security practitioner specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
 - 👯 I’m looking to collaborate on progamming tools.
 - 🤔 I’m looking for help with coding tips and any of the above.
