@@ -18,7 +18,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - ⚡ Fun fact: I know Nashville Numbering.
 
 #
-[Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://github.com/Char-Hunt/Forums/blob/main/README.md#forums) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
+[Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 #
 My Latest:
  
