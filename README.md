@@ -34,7 +34,7 @@ My Latest:
     
    [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://bit.ly/3Q4tlZf)
     
-   [Film Review - The Fast and the Furious: Tokyo Drift  (2006): The Underground World of Drift Racing](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
+   [The Underground World of Drift Racing In Tech](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
 #
 #
 FYI (For Your Information)
