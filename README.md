@@ -5,7 +5,9 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, and results. I have diverse experience in information security, network access privileges, data integrity and governance, incident management, compliance management, financial systems administration and accounting applications analysis, and business requirements. I am a naturally inquisitive learner and collaborative IT ally, with a passion for strategic problem solving and creatively aligning compliance programs with business goals and objectives. I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 
-#
+
+
+
 
 - 🔭 I’m currently working on infosec, compliance and soc1 / soc2 items.
 - 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
@@ -17,9 +19,13 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
 
-#
+
+
+
 [Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
-#
+
+
+
 My Latest:
  
    [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
@@ -35,8 +41,10 @@ My Latest:
    [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://bit.ly/3Q4tlZf)
     
    [The Underground World of Drift Racing In Tech](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
-#
-#
+
+
+
+
 FYI (For Your Information)
 
 This is a home for us to connect. A place where I can advise on a wide range of topics. 
