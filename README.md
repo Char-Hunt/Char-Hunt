@@ -19,7 +19,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 
 
-[Website](https://github.com/Char-Hunt/Char-Hunt) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
+[Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/47pSm8s) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
 
 
