@@ -26,7 +26,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 
 
-My Latest:
+**My Latest**
  
    [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
     
@@ -45,7 +45,7 @@ My Latest:
 
 
 
-FYI (For Your Information)
+**FYI - For Your Information**
 
 This is a home for us to connect. A place where I can advise on a wide range of topics. 
 
