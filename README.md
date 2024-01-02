@@ -7,8 +7,6 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 
 
-
-
 - 🔭 I’m currently working on infosec, compliance and soc1 / soc2 items.
 - 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
@@ -18,7 +16,6 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 📫 How to reach me: Find me online and [Learn More.](http://bit.ly/TechieChar)
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
-
 
 
 
@@ -44,8 +41,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 
 
-
-**FYI - For Your Information**
+**For Your Information**
 
 This is a home for us to connect. A place where I can advise on a wide range of topics. 
 
