@@ -45,4 +45,4 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 This is a home for us to connect. A place where I can advise on a wide range of topics. 
 
-Let's chat! **Contact Me for a Live Conversation.**
+Let's chat!  **Contact Me for a Live Conversation.**
