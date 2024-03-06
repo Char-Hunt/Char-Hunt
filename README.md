@@ -17,11 +17,10 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
 
-
-
+#
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](http://bit.ly/TechieChar) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
-
+#
 **My Latest**
  
    [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
@@ -38,8 +37,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
     
    [The Underground World of Drift Racing In Tech](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
 
-
-
+#
 **For Your Information**
 
 This is a home for us to connect. A place where I can advise on a wide range of topics. 
