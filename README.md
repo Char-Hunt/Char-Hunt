@@ -17,7 +17,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Wait... what is what?
 - ⚡ Fun fact: I know Nashville Numbering.
 
-[Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Portfolio](https://github.com/Char-Hunt/Learning-Info-Sec#portfolio-list) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
+[Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
 **My Latest**
  
