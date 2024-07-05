@@ -14,7 +14,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](http://bit.ly/TechieChar)
-- 😄 Pronouns: Human Being in a Digital World
+- 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
