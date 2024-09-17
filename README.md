@@ -31,7 +31,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
     
    [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
     
-   [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://bit.ly/3Q4tlZf)
+   [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://open.substack.com/pub/techiechar/p/film-review-rollercoaster?r=2i0y4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
     
    [The Underground World of Drift Racing In Tech](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
 
