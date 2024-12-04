@@ -10,7 +10,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 🔭 I’m currently working on Technical Editing and Writing, IT Client Services, InfoSec, Risk Audit, and Cybersecurity.
 - 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
-- 👯 I’m looking to collaborate on progamming tools.
+- 👯 I’m looking to collaborate on progamming tools. Think LM, long context, fine tuning.
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
 - 📫 How to reach me: Find me online and [Learn More.](http://bit.ly/TechieChar)
