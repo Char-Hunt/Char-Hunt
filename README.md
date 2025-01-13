@@ -7,7 +7,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 
 
-- 🔭 I’m currently working on Technical Editing and Writing, IT Client Services, InfoSec, Risk Audit, and Cybersecurity.
+- 🔭 I’m currently working on Technical Editing and Writing, Customer Care / IT Client Services, InfoSec, Risk Audit, and Cybersecurity.
 - 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
 - 👯 I’m looking to collaborate on progamming tools. Think LM, long context, fine tuning.
@@ -17,7 +17,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
-[Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
+[Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI Scheduling](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
 
 **For Your Information**
