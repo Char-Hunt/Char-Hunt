@@ -17,9 +17,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - ⚡ Fun fact: I know Nashville Numbering.
 
 
-
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI Scheduling](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
-
 
 
 **For Your Information**
