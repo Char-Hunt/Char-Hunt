@@ -21,19 +21,19 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 **My Latest**
  
-   [How Does ChatGPT Work?](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
+   [How Does ChatGPT Work?](https://www.techchurn.org/p/how-does-chatgpt-work)
     
-   [Scammer Security Tips: 8 Quick Tips...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
+   [Scammer Security Tips: 8 Quick Tips...](https://www.techchurn.org/p/scammer-security-tips-avoid-cyber)
    
    [Break Down Prompts Into Smaller...](https://bit.ly/3Q4tlZf)
     
    [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
    
-   [The Underground World of Drift Racing...](https://www.techchurn.org?utm_source=navbar&utm_medium=web) 
+   [The Underground World of Drift Racing...](https://www.techchurn.org/p/film-review-the-fast-and-the-furious) 
    
-   [Film Review-Rollercoaster (1977): How I...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
+   [Film Review-Rollercoaster (1977): How I...](https://www.techchurn.org/i/148988232/film-review-rollercoaster)
    
-   [Password Myths: Separating Fact from...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
+   [Password Myths: Separating Fact from...](https://www.techchurn.org/i/146188965/ten-myths-about-passwordsthe-myths-and-truths)
     
    
 
