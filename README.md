@@ -6,7 +6,6 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, and results. I have diverse experience in information security, network access privileges, data integrity and governance, incident management, compliance management, financial systems administration and accounting applications analysis, and also business requirements. I am a naturally inquisitive learner and collaborative IT ally, with a passion for strategic problem solving and creatively aligning compliance programs with business objectives. I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 
 
-
 - 🔭 I’m currently working on Technical Editing and Writing, Customer Care / IT Client Services, InfoSec, Risk Audit, and Cybersecurity.
 - 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
@@ -17,8 +16,11 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
+#
+
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI Scheduling](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
+#
 
 **For Your Information**
 
