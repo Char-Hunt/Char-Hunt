@@ -19,24 +19,6 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
-**My Latest**
- 
-   [How Does ChatGPT Work?](https://www.techchurn.org/p/how-does-chatgpt-work)
-    
-   [Scammer Security Tips: 8 Quick Tips...](https://www.techchurn.org/p/scammer-security-tips-avoid-cyber)
-   
-   [Break Down Prompts Into Smaller...](https://bit.ly/3Q4tlZf)
-    
-   [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
-   
-   [The Underground World of Drift Racing...](https://www.techchurn.org/p/film-review-the-fast-and-the-furious) 
-   
-   [Film Review-Rollercoaster (1977): How I...](https://www.techchurn.org/i/148988232/film-review-rollercoaster)
-   
-   [Password Myths: Separating Fact from...](https://www.techchurn.org/i/146188965/ten-myths-about-passwordsthe-myths-and-truths)
-    
-   
-
 
 **For Your Information**
 
