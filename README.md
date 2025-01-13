@@ -18,7 +18,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 [Website](https://www.charhunt.org/) | [Blog](https://bit.ly/3Q4tlZf) | [Snapshot](https://bit.ly/3W8Ht8B) | [Shop](Merch) | [FYI Scheduling](https://bit.ly/48OBDvr) | [Links](https://bit.ly/48CSTo7) | [Newsletter](https://bit.ly/_TechieCharNewsletter) | [Community](https://bit.ly/3tg6fra) | [The Stream: Talk Bits](https://bit.ly/TechieCharPodcast)
 
 **For Your Information**
+**FYI** is a home for us to connect. Let's chat!  -  **Contact Me for a Live Conversation.**
 
-**FYI** is a home for us to connect. A place where I can advise on a wide range of topics. 
-
-Let's chat!  **Contact Me for a Live Conversation.**
+**Char Hunt**
+Business developer, customer success advocate & InfoSec strategist striving to make an positive impact for everyday people. Leading & scaling awareness.
