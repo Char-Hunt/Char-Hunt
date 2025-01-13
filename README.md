@@ -21,4 +21,4 @@ I excel at finding solutions for complex problems, delivering customer care exce
 **FYI** is a home for us to connect. Let's chat!  -  **Contact Me for a Live Conversation.**
 
 **Char Hunt**
-Business developer, customer success advocate & InfoSec strategist striving to make an positive impact for everyday people. Leading & scaling awareness.
+Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
