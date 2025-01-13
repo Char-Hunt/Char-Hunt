@@ -21,19 +21,21 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 **My Latest**
  
-   [Embrace Sustainable Food Systems: How UPFs Promote Heart Disease](https://open.substack.com/pub/techiechar/p/embrace-sustainable-food-systems?r=2i0y4d&utm_campaign=post&utm_medium=web)
+   [How Does ChatGPT Work?](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
     
-   [Why Does Recycling Seem So Difficult](https://open.substack.com/pub/techiechar/p/why-does-recycling-seem-so-difficult?r=2i0y4d&utm_campaign=post&utm_medium=web)
+   [Scammer Security Tips: 8 Quick Tips...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
    
-   [Break Down Prompts Into Smaller Chunks](https://bit.ly/3Q4tlZf)
-    
-   [New Business Imperatives and Why Circular Economy Is The Answer](https://open.substack.com/pub/techiechar/p/new-business-imperatives-and-why?r=2i0y4d&utm_campaign=post&utm_medium=web)
+   [Break Down Prompts Into Smaller...](https://bit.ly/3Q4tlZf)
     
    [Mapping Your Cybersecurity Journey](https://bit.ly/3Q4tlZf)
+   
+   [The Underground World of Drift Racing...](https://www.techchurn.org?utm_source=navbar&utm_medium=web) 
+   
+   [Film Review-Rollercoaster (1977): How I...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
+   
+   [Password Myths: Separating Fact from...](https://www.techchurn.org?utm_source=navbar&utm_medium=web)
     
-   [Film Review - Rollercoaster (1977): How I Learned to Stop Worrying and Love Disaster / Suspense](https://open.substack.com/pub/techiechar/p/film-review-rollercoaster?r=2i0y4d&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
-    
-   [The Underground World of Drift Racing In Tech](https://open.substack.com/pub/techiechar/p/film-review-the-fast-and-the-furious?r=2i0y4d&utm_campaign=post&utm_medium=web)
+   
 
 
 **For Your Information**
