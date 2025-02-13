@@ -15,7 +15,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
-[Blog](https://substack.com/@techiechar/note/c-42222125) | [Snapshot](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [Shop](Merch) | [FYI Scheduling](https://calendly.com/char-hunt) | [Links](https://solo.to/treadm1ll) | [Community](https://github.com/Char-Hunt/Forums) | [The TechChurn Podcast](https://www.techchurn.org/podcast)
+[Blog](https://substack.com/@techiechar/note/c-42222125) | [Snapshot](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [FYI Scheduling](https://calendly.com/char-hunt) | [Links](https://solo.to/treadm1ll) | [Community](https://github.com/Char-Hunt/Forums) | [The TechChurn Podcast](https://www.techchurn.org/podcast)
 
 **For Your Information**
 **FYI** is a home for us to connect. Let's chat!  -  **Contact Me for a Live Conversation**
