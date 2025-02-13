@@ -11,7 +11,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 - 👯 I’m looking to collaborate on progamming tools. Think LM, long context, fine tuning.
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me online and [Learn More.](https://www.charhunt.org/)
+- 📫 How to reach me: Find me online and [Learn More.](https://solo.to/charhunt.org)
 - 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
