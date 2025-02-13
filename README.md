@@ -6,7 +6,7 @@ My name is Char! I analyze and manage organizational systems and work to maintai
 I excel at finding solutions for complex problems, delivering customer care excellence, and facilitating efficiencies, accountability, and results. I have diverse experience in information security, network access privileges, data integrity and governance, incident management, compliance management, financial systems administration and accounting applications analysis, and also business requirements. I am a naturally inquisitive learner and collaborative IT ally, with a passion for strategic problem solving and creatively aligning compliance programs with business objectives. I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 
 - 🔭 I’m currently working on Technical Editing and Writing, Customer Success, InfoSec, Risk Audit, and Cybersecurity.
-- 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, security architecture, and security policy development.
+- 👨‍💻 I'm an IT security advocate specializing in security audit/risk assessment/evaluation, user engagement, emerging technologies, education & awareness, and security policy development.
 - 🌱 I’m currently exploring python, linux, vae, gan systems, gai and ml concepts.
 - 👯 I’m looking to collaborate on progamming tools. Think LM, long context, fine tuning.
 - 🤔 I’m looking for help with coding tips and any of the above.
@@ -17,7 +17,7 @@ I excel at finding solutions for complex problems, delivering customer care exce
 
 [Blog](https://substack.com/@techiechar/note/c-42222125) | [Snapshot](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [FYI Scheduling](https://calendly.com/char-hunt) | [Links](https://solo.to/treadm1ll) | [Community](https://github.com/Char-Hunt/Forums) | [The TechChurn Podcast](https://www.techchurn.org/podcast)
 
-**For Your Information**
-**FYI** is a home for us to connect. Let's chat!  -  **Contact Me for a Live Conversation**
-
 **Char Hunt** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
+
+**For Your Information Scheduling**
+**FYI** is a home for us to connect. Let's chat!  -  **Contact Me for a Live Conversation**
