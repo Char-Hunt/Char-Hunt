@@ -16,9 +16,7 @@ I find solutions for companies, delivering customer care excellence, facilitatin
 - ⚡ Fun fact: I know Nashville Numbering.
 
 
-[InfoSec Corner](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [Work](https://solo.to/treadm1ll) | [Community](https://github.com/Char-Hunt/Forums)
 
-**Char Hunt** - Business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
+[**Schedule time with me**](https://calendly.com/char-hunt/got-a-question) | [InfoSec Corner](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [Work](https://solo.to/treadm1ll) | [Community](https://github.com/Char-Hunt/Forums)
 
-**For Your Information**
-Schedule a time to connect - Contact Me for a Live Conversation
+**Char Hunt** - Builder, business developer, customer success manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
