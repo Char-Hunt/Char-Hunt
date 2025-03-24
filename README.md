@@ -1,4 +1,5 @@
-![bnnr3b](https://github.com/Char-Hunt/Char-Hunt/assets/138831832/6a4a3344-7643-45d6-ab7f-d08bf45b4406)
+![Banr25](https://github.com/user-attachments/assets/e2973e30-48b4-45d1-b9b7-60c4b25511df)
+
 
 ### Hi there | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
 My name is Char. I analyze and manage organizational systems and work to maintain core principles including confidentiality, integrity and ethics.  My IT infrastructure analysis, Technical Writing/Editing, ITSM background and understanding of business architecture gives a strong base to troubleshoot and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support of IT support services delivery and project management; deploying new applications and supporting technologies.
