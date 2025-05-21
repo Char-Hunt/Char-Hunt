@@ -2,7 +2,7 @@
 
 
 ### Hi there | bonjour | こんにちは | ሰላም | नमस्कार | kamusta na | Mālō | Hallo | مرحبا | ஹலோ | Hola
-My name is Char. I analyze and manage organizational systems and work to maintain core principles including confidentiality, integrity and ethics.  My IT infrastructure analysis, Technical Writing/Editing, ITSM background and understanding of business architecture gives a strong base to troubleshoot and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support of IT support services delivery and project management; deploying new applications and supporting technologies.
+My name is Char. I analyze and manage organizational systems and work to maintain core principles including confidentiality, integrity and ethics.  My IT infrastructure analysis, Technical Writing/Editing, IT systems background and understanding of business architecture gives a strong base to troubleshoot and provide solutions in networked environments. During my career I have worked in high-demand reactive, rapid response positions providing 24x7 support of IT support services delivery and project management; deploying new applications and supporting technologies.
 
 I find solutions for companies, delivering customer care excellence, facilitating efficiencies, accountability, and results. I have diverse experience in IT infrastructure and governance, implementation, and business requirements. I am a naturally inquisitive learner and collaborative IT ally, with a passion for strategic problem solving and creatively aligning compliance programs with clear objectives. I value exchanging insights, trends, and resources relevant to navigating change, on our own terms.
 
