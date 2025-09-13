@@ -18,6 +18,6 @@ I find solutions for companies, delivering customer care excellence, facilitatin
 
 
 
-[**Schedule time with me**]( ) | [**InfoSec Corner**](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [**Work**](https://solo.to/treadm1ll) | [**Community**](https://github.com/Char-Hunt/Forums) | [**Customized gpt CHAT BUILDS**](https://github.com/users/Char-Hunt/projects/1) | [**Services**] (https://www.linkedin.com/company/treadmill-consulting)
+[**Schedule time with me**]( ) | [**InfoSec Corner**](https://github.com/Char-Hunt/Learning-Info-Sec#projects) | [**Work**](https://solo.to/treadm1ll) | [**Community**](https://github.com/Char-Hunt/Forums) | [**Customized gpt CHAT BUILDS**](https://github.com/users/Char-Hunt/projects/1) | [**Services**](https://www.linkedin.com/company/treadmill-consulting)
 
 **Char Hunt** - Builder, Business Developer, Customer Success Manager, and InfoSec advocate striving to make a positive impact for everyday people. Leading & scaling awareness.
