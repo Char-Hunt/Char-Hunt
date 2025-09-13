@@ -12,7 +12,7 @@ I find solutions for companies, delivering customer care excellence, facilitatin
 - 👯 I’m looking to collaborate on progamming tools. LM, long context, fine tuning, gai.
 - 🤔 I’m looking for help with coding tips and any of the above.
 - 💬 Ask me about how resiliency, risk, ethics, and customer experience can be intersectional.
-- 📫 How to reach me: Find me online and [Learn More.](https://linkedin.com/in/charhunte)
+- 📫 How to reach me: Find me online [LinkedIn.](https://linkedin.com/in/charhunte)
 - 😄 Pronouns: Human Being in a Digital World 
 - ⚡ Fun fact: I know Nashville Numbering.
 
